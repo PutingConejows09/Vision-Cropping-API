@@ -1,3 +1,7 @@
 flask
-pillow
 gunicorn
+pillow
+opencv-python
+numpy
+python-dotenv
+requests
